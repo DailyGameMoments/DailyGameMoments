@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DailyGameMoments
-- 👀 I’m interested in Quant AI Trading Solution
-- 🌱 I’m currently learning amy Alpha AI Trading System
-- 💞️ I’m looking to collaborate on AI Quant Solution
+- 👀 I’m interested in Quant AI Trading Strategies
+- 🌱 I’m currently learning any Alpha AI Trading System
+- 💞️ I’m looking to collaborate on AI Quant Total Solution
 - 📫 How to reach me? Email: github@dailygamemoments.com 
 - ⚡ Fun fact: A Day Without Gaming, Staking or Trading Is A Day Wasted by DailyGameMoments (DGM)
 
